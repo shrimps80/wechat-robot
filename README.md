@@ -6,5 +6,5 @@
 $ pyenv local 3.4.2
 $ python -m venv .virtualenv
 $ ./ve pip install itchat
-$ ./ve python run.py
+$ ./ve pip install redis
 ```
